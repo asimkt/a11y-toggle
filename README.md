@@ -7,14 +7,15 @@ You can try the [live demo](http://edenspiekermann.github.io/a11y-toggle/).
 
 ## Install
 
+Through npm:
 ```sh
 npm install --save a11y-toggle
 ```
 
+Through bower:
 ```sh
-bower install a11y-toggle
+bower install --save a11y-toggle
 ```
-
 
 ## Usage
 
